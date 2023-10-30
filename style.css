@@ -301,7 +301,7 @@ nav {
 .about-me {
   & h2 {
     margin-block: 1rem;
-    margin-bottom:2rem;
+    margin-top: 2rem;
   }
 
   & img {
