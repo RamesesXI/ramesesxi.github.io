@@ -1,7 +1,7 @@
 // * _______________ TAB SELECTION (MECH) ____________________\\
 
 const tabsContainer = document.querySelector('#nav-links');
-let activeTabId = "home";
+let activeTabId = "games";
 
 tabsContainer.addEventListener("click", (ev) => {
   if (ev.target.nodeName === "LI") {
